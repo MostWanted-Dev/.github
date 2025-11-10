@@ -11,6 +11,7 @@
 </p>
 
 <div align="center" style="margin-top:40px;">
+  Some of Our Developers
   <table>
     <tr>
       <td align="center" style="padding:20px;">
@@ -34,3 +35,4 @@
     </tr>
   </table>
 </div>
+
