@@ -26,12 +26,6 @@
           <br/><b>GiwrgosKantas</b>
         </a>
       </td>
-      <td align="center" style="padding:20px;">
-        <a href="https://github.com/silencexdev" target="_blank">
-          <img src="https://github.com/silencexdev.png" width="100" style="border-radius:50%;" alt="Silencexdev"/>
-          <br/><b>Silencexdev</b>
-        </a>
-      </td>
     </tr>
   </table>
 </div>
